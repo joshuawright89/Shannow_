@@ -1,0 +1,16 @@
+C:\Users\joshu\Desktop\Shannow\Shannow_MVC\Shannow_Services\bin\Debug\Shannow_Services.dll
+C:\Users\joshu\Desktop\Shannow\Shannow_MVC\Shannow_Services\bin\Debug\Shannow_Services.pdb
+C:\Users\joshu\Desktop\Shannow\Shannow_MVC\Shannow_Services\obj\Debug\Shannow_Services.csprojAssemblyReference.cache
+C:\Users\joshu\Desktop\Shannow\Shannow_MVC\Shannow_Services\obj\Debug\Shannow_Services.csproj.CoreCompileInputs.cache
+C:\Users\joshu\Desktop\Shannow\Shannow_MVC\Shannow_Services\obj\Debug\Shannow_Services.dll
+C:\Users\joshu\Desktop\Shannow\Shannow_MVC\Shannow_Services\obj\Debug\Shannow_Services.pdb
+C:\Users\joshu\Desktop\Shannow\Shannow_MVC\Shannow_Services\bin\Debug\Shannow_Services.dll.config
+C:\Users\joshu\Desktop\Shannow\Shannow_MVC\Shannow_Services\bin\Debug\EntityFramework.dll
+C:\Users\joshu\Desktop\Shannow\Shannow_MVC\Shannow_Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\joshu\Desktop\Shannow\Shannow_MVC\Shannow_Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\joshu\Desktop\Shannow\Shannow_MVC\Shannow_Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\joshu\Desktop\Shannow\Shannow_MVC\Shannow_Services\bin\Debug\EntityFramework.xml
+C:\Users\joshu\Desktop\Shannow\Shannow_MVC\Shannow_Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\joshu\Desktop\Shannow\Shannow_MVC\Shannow_Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\joshu\Desktop\Shannow\Shannow_MVC\Shannow_Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\joshu\Desktop\Shannow\Shannow_MVC\Shannow_Services\obj\Debug\Shannow_Services.csproj.CopyComplete

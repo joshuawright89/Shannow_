@@ -14,3 +14,6 @@ C:\Users\joshu\Desktop\Shannow\Shannow_MVC\Shannow_Data\bin\Debug\Microsoft.AspN
 C:\Users\joshu\Desktop\Shannow\Shannow_MVC\Shannow_Data\obj\Debug\Shannow_Data.csproj.CopyComplete
 C:\Users\joshu\Desktop\Shannow\Shannow_MVC\Shannow_Data\obj\Debug\Shannow_Data.dll
 C:\Users\joshu\Desktop\Shannow\Shannow_MVC\Shannow_Data\obj\Debug\Shannow_Data.pdb
+C:\Users\joshu\Desktop\Shannow\Shannow_MVC\Shannow_Data\obj\Debug\Shannow_Data.Migrations.InitialCreate.resources
+C:\Users\joshu\Desktop\Shannow\Shannow_MVC\Shannow_Data\obj\Debug\Shannow_Data.csproj.GenerateResource.cache
+C:\Users\joshu\Desktop\Shannow\Shannow_MVC\Shannow_Data\obj\Debug\Shannow_Data.Migrations.InitialManualMigration.resources
